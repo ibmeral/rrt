@@ -1,0 +1,300 @@
+﻿  Building Custom Rule C:/rrt/CMakeLists.txt
+  rrtstar.cpp
+C:\rrt\rrtstar.cpp(11,7): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(12,23): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(12,33): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(13,34): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(13,29): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(13,22): error C2976: 'std::vector': çok az sayıda şablon bağımsız değişkeni var
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      'std::vector' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(13,38): error C2955: 'std::vector' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      'std::vector' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(13,51): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(13,7): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(14,24): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(14,43): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(14,7): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(15,24): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(15,34): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(16,19): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(16,40): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(16,35): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(16,28): error C2976: 'std::vector': çok az sayıda şablon bağımsız değişkeni var
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      'std::vector' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(16,44): error C2955: 'std::vector' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      'std::vector' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(17,37): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(17,32): error C2955: 'cv::Node' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      'cv::Node' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(17,25): error C2976: 'std::vector': çok az sayıda şablon bağımsız değişkeni var
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      'std::vector' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(17,41): error C2955: 'std::vector' : sınıf şablon kullanımı için şablon bağımsız değişken listesi gerekir
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+      'std::vector' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(33,1): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(33,7): error C2556: 'Node *getRandomNode(void)': aşırı yüklenen sanal işlev ile 'cv::Node *getRandomNode(void)' arasındaki tek fark dönüş türü
+      C:\rrt\rrtstar.cpp(11,7):
+      'getRandomNode' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(33,7): error C2371: 'getRandomNode': yeniden tanımlama; temel türler farklı
+      C:\rrt\rrtstar.cpp(11,7):
+      'getRandomNode' bildirimine bakın
+  
+C:\rrt\rrtstar.cpp(35,16): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(38,17): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(38,27): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(44,1): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(44,29): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(44,45): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(46,5): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(60,1): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(60,18): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(60,37): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(63,14): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\rrt\rrtstar.cpp(64,14): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\rrt\rrtstar.cpp(65,5): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(65,25): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(71,18): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(71,28): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(84,13): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(84,35): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(96,8): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(96,25): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(96,38): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(98,12): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(103,9): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(103,26): error C2440: 'başlatılıyor': 'cv::Node *(__cdecl *)(void)' - 'Node *' dönüşümü yapılamıyor
+      C:\rrt\rrtstar.cpp(103,26):
+      Bu dönüştürmenin mümkün olduğu bir bağlam yok
+  
+C:\rrt\rrtstar.cpp(104,9): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(105,9): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(122,12): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(123,5): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(133,32): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(145,5): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(145,23): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(146,5): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(146,22): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  
+C:\rrt\rrtstar.cpp(162,12): error C2872: 'Node': belirsiz simge
+      C:\rrt\rrtstar.cpp(20,8):
+      'Node' olabilirdi
+      C:\opencv\build\include\opencv2\core\utility.hpp(1074,18):
+      veya       'cv::Node'
+  

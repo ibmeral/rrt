@@ -1,0 +1,4 @@
+kodu derlemekte zorlandım
+
+cmake ile derleyemedim
+anlayamadğığım hatalar aldım 
